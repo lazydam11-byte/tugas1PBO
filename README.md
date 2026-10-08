@@ -13,7 +13,7 @@
 
 Berikut merupakan hasil output program mengenai **Class**.
 
-![Hasil Output Class](screenshot/"01 Class.png")
+![Hasil Output Class](screenshot/01%20class.png)
 
 ---
 

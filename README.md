@@ -1,9 +1,9 @@
 # Tugas 1 PBO
 
-**Nama:**  Khairul Adam Efendi
-**NPM:**  4525210035
-**Matkul:**  Pemrograman Berorientasi Objek
-**Dosen:**  Adi Wahyu Pribadi, S.Si., M.Kom
+**Nama:**  Khairul Adam Efendi  
+**NPM:**  4525210035  
+**Matkul:**  Pemrograman Berorientasi Objek  
+**Dosen:**  Adi Wahyu Pribadi, S.Si., M.Kom  
 
 ## Hasil Output
 
